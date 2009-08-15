@@ -1,0 +1,5 @@
+Barista is a real-time property inspector for the Cappuccino web framework.  It allows access to the data supporting Cappuccino objects via a point-and-click interface.  Barista aims to allow Cappuccino developers access to information regarding objects in a way similar to Firebug's access to HTML and DOM structure via it's inspector controls.
+
+Barista is written in Objective-J and Javascript.
+
+Plans for firebug integration are in the works.
